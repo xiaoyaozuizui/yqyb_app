@@ -1,0 +1,16 @@
+[
+  {
+    "name": "设备3",
+    "type": "类型3",
+    "status": "正常",
+    "store_status": "离库",
+    "id": "id3"
+  },
+  {
+    "name": "设备4",
+    "type": "类型4",
+    "status": "正常",
+    "store_status": "离库",
+    "id": "id4"
+  }
+]
